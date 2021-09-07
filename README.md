@@ -1,2 +1,7 @@
-# IASC-1P04
-GitHub repository for IASC-1P04 course at Brock University
+# IASC-1P04 | Phuc Nguyen Vo
+
+Welcome to the website of my Twine Game. Created for the course IASC 1P04 at Brock University. 
+
+## Playtest
+
+Playtest my game [here]()
