@@ -5,3 +5,7 @@ Welcome to the website of my Twine Game. Created for the course IASC 1P04 at Bro
 ## Playtest
 
 Playtest my game [here]()
+
+## Prototype
+
+Play my prototype [here](prototype/TwineGamePrototype.html)
