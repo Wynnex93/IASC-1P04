@@ -3,6 +3,6 @@
 
 ## Play the game
 
-Play the game prototype [here](../prototype/The Cafeteria_Prototype.html).
+Play the game prototype [here](https://wynnex93.github.io/IASC-1P04/prototype/The%20Cafeteria_Prototype.html).
 
 ## Complete the playtest survey
